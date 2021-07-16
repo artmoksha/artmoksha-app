@@ -1,0 +1,10 @@
+{
+  "name": "Artmoksha",
+  "short_name": "Artmoksha",
+  "theme_color": "#1f2937",
+  "background_color": "#1f2937",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
